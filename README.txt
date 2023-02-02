@@ -35,4 +35,3 @@ Step 5: Connect Raspberry Pi with camera module and AWS services
 Connect the Raspberry Pi and camera module as described in previous answer.
 Install the AWS SDK (boto3) on the Raspberry Pi by running pip install boto3
 Write the Python code to capture images from the Raspberry Pi camera module, send the images to the Kinesis Stream, store the images in S3, detect the vehicle numbers from the images, and send a fine ticket to the registered phone number using Amazon SNS.
-Program code for over speeding vehicle detection:
