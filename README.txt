@@ -1,4 +1,4 @@
-**Step 1: Set up an AWS account**
+Step 1: Set up an AWS account
 
 Go to the AWS website and sign up for an AWS account if you don't have one already.
 Select the region you want to use for this project.
